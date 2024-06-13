@@ -31,13 +31,15 @@
 ## <img width="28px" src="aboutme.png" /> Sobre mi
 
 <p>
-<samp>
+
 <img align="right" width="310px" src="imagenCV2.gif"/>
+
 <b>Soy un desarrollador de aplicaciones multiplataforma (DAM) con una pasión marcada por el Front End.
+
 Mi formación en el Ciclo Formativo Superior me brindó una base sólida en programación, inicialmente enfocándome en el Back End. Durante este periodo, completé prácticas de tres meses en un entorno profesional, donde pude aplicar mis habilidades y adquirir experiencia práctica. Fue en esta etapa cuando descubrí mi interés por el Front End.
 Para fortalecer mis conocimientos, completé un bootcamp especializado en JavaScript y TypeScript, consolidando mi dominio en este stack. Aunque tengo conocimientos de desarrollo backend, he decidido especializarme en Front End. Actualmente, estoy cursando un máster en Front End para profundizar aún más en esta área.
 En mi estudio diario, utilizo tecnologías y lenguajes como TypeScript y React.</b>
-</samp> 
+
 </p>
 
 <br>

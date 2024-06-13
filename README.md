@@ -1,5 +1,5 @@
 <h1 align="center">
-    <samp>&gt; Hola a todos!, Soy <b>Jonathan King</b>
+    <samp>&gt; Hola a todos! Soy <b>Jonathan King</b>
     <img align="right" width="310px" src="imagenCV1.gif" alt="saludo"/>
     <br/>
     <br/>

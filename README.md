@@ -6,7 +6,7 @@
     </samp>  
 </h1>  
   <div align="center">
-     <b align="center">Junior Front End Developer</b>
+     <b align="center">Front End Developer</b>
     <br>
     <br>
       <p align="center">
@@ -30,11 +30,15 @@
 
 <img align="right" width="310px" src="imagenCV2.gif"/>
 
-<b>Soy un desarrollador de aplicaciones multiplataforma (DAM) con una pasión marcada por el Front End.
+<b>Desarrollador Frontend con pasión por crear experiencias interactivas y eficientes en la web.
 
-Mi formación en el Ciclo Formativo Superior me brindó una base sólida en programación, inicialmente enfocándome en el Back End. Durante este periodo, completé prácticas de tres meses en un entorno profesional, donde pude aplicar mis habilidades y adquirir experiencia práctica. Fue en esta etapa cuando descubrí mi interés por el Front End.
-Para fortalecer mis conocimientos, completé un bootcamp especializado en JavaScript y TypeScript, consolidando mi dominio en este stack. Aunque tengo conocimientos de desarrollo backend, he decidido especializarme en Front End. Actualmente, estoy cursando un máster en Front End para profundizar aún más en esta área.
-En mi estudio diario, utilizo tecnologías y lenguajes como TypeScript y React.</b>
+Mi formación técnica me brindó una base sólida en programación, inicialmente enfocándome en el Back End.
+Durante mis prácticas profesionales, tuve la oportunidad de aplicar estos conocimientos en un entorno real, pero
+fue entonces cuando descubrí mi interés por el Front End. Para fortalecer mis habilidades, realicé un bootcamp
+especializado en JavaScript y TypeScript, consolidando mi dominio en este stack.
+Actualmente, me especializo en desarrollo Frontend con React y TypeScript, combinando diseño, usabilidad y
+rendimiento para crear interfaces óptimas. Continúo ampliando mis conocimientos a través de un máster en Front
+End, con el objetivo de seguir creciendo en esta área y aportar soluciones innovadoras en cada proyecto.</b>
 
 </p>
 
@@ -48,4 +52,5 @@ En mi estudio diario, utilizo tecnologías y lenguajes como TypeScript y React.<
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-33BEFF?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

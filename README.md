@@ -30,15 +30,7 @@
 
 <img align="right" width="310px" src="imagenCV2.gif"/>
 
-<b>Desarrollador Frontend con pasión por crear experiencias interactivas y eficientes en la web.
-
-Mi formación técnica me brindó una base sólida en programación, inicialmente enfocándome en el Back End.
-Durante mis prácticas profesionales, tuve la oportunidad de aplicar estos conocimientos en un entorno real, pero
-fue entonces cuando descubrí mi interés por el Front End. Para fortalecer mis habilidades, realicé un bootcamp
-especializado en JavaScript y TypeScript, consolidando mi dominio en este stack.
-Actualmente, me especializo en desarrollo Frontend con React y TypeScript, combinando diseño, usabilidad y
-rendimiento para crear interfaces óptimas. Continúo ampliando mis conocimientos a través de un máster en Front
-End, con el objetivo de seguir creciendo en esta área y aportar soluciones innovadoras en cada proyecto.</b>
+<b>Desarrollador Frontend especializado en React y Next.js, con especial interés en el UX/UI y la animación web. Me motiva crear experiencias digitales que combinan funcionalidad, diseño cuidado y movimiento, buscando siempre que el usuario disfrute cada detalle.</b>
 
 </p>
 
